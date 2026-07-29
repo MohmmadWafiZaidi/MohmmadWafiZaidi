@@ -20,13 +20,6 @@ I am a **B.Tech student specializing in Artificial Intelligence and Data Science
 
 ---
 
-### 📈 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📫 How to Reach Me
 * **LinkedIn:** https://www.linkedin.com/in/mohmmad-wafi-zaidi/
 * **Email:** muhammadwafizaidi@gmail.com
