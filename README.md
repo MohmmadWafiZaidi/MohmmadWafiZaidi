@@ -13,7 +13,7 @@ I am a **B.Tech student specializing in Artificial Intelligence and Data Science
 ---
 
 ### 💻 Tech Stack & Tools
-* **Programming Languages:** Python, C++, Java, SQL
+* **Programming Languages:** Python, C++, SQL
 * **Data Science & Math Libraries:** NumPy, Pandas, SciPy, Scikit-Learn
 * **Databases:** MySQL, Relational Database Management
 * **Core Skills:** Data Structures & Algorithms, Object-Oriented Programming, Statistical Analysis
